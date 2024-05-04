@@ -3,7 +3,7 @@
     "name": "Raksirang FM",
     "slogan": "",
     "frequency": "94.9 Mhz",
-    "url": "https://onlineradio.websoftitnepal.com/8068/stream;",
+    "url": "https://onlineradio.websoftitnepal.com/8068/stream",
     "location": "Raksirang, Nepal"
   },
   {
@@ -12,5 +12,12 @@
     "frequency": "90.6 Mhz",
     "url": "https://onlineradio.websoftitnepal.com/8446/stream",
     "location": "Jhurjhure, Nepal"
+  },
+  {
+    "name": "Radio Ekantipur",
+    "slogan": "",
+    "frequency": "96.1 & 101.8 Mhz",
+    "url": "https://radio-broadcast.ekantipur.com/stream",
+    "location": "Lalitpur, Nepal"
   }
 ]
