@@ -24,13 +24,13 @@ const allowNext = computed(() => playingIndex.value < playlist.value.length - 1)
             <div class="playing">
                 <div class="playing-title">
                     <material-icon name="keyboard_voice" type="outlined" size="14" />
-                    <span>Sedang Mendengarkan</span>
+                    <span>You are listening...</span>
                 </div>
                 <div class="playing-station">
                     <h3 class="playing-station--name">{{ playingStation.name + ' ' + playingStation.frequency }}</h3>
                     <p class="playing-station--slogan">{{ playingStation.slogan }}</p>
                 </div>
-                <p v-if="playingError" class="playing-error">Stasiun sedang tidak tersedia.</p>
+                <p v-if="playingError" class="playing-error">The station is currently unavailable.</p>
                 <!-- <div class="playing-actions">
           <button class="playing-actions--share">
             <material-icon name="share" type="rounded" />
@@ -58,7 +58,7 @@ const allowNext = computed(() => playingIndex.value < playlist.value.length - 1)
                     <material-icon :name="showPlaylist ? 'expand_more' : 'expand_less'" type="rounded" />
                 </button>
             </div>
-            <h5 class="playlist-title">Daftar Stasiun Radio</h5>
+            <h5 class="playlist-title">List of Radio Stations</h5>
             <ul v-if="showPlaylist" class="station-list">
                 <li
                     v-for="(station, index) in playlist"
