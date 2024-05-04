@@ -1,7 +1,7 @@
 <script setup>
-import RadioPlayer from '@/components/RadioPlayer.vue'
+import RadioPlayer from '@/components/RadioPlayer.vue';
 </script>
 
 <template>
-  <radio-player />
+    <radio-player />
 </template>
