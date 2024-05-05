@@ -17,8 +17,8 @@ const allowNext = computed(() => playingIndex.value < playlist.value.length - 1)
                 <div class="thumbnail">
                     <div class="playing-indicator" :class="{ running: playing }"></div>
                     <div class="image">
-                        <img src="https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png" />
-                        <!-- <img src="/thumbnail.jpg" /> -->
+                        <!-- <img src="https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png" />-->
+                        <img src="{{ playingStation.logo }}" /> 
                     </div>
                 </div>
             </header>
