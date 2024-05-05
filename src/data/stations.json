@@ -14,10 +14,17 @@
     "location": "Jhurjhure, Nepal"
   },
   {
-    "name": "Radio Ekantipur",
+    "name": "Radio Kantipur",
     "slogan": "",
     "frequency": "96.1 & 101.8 Mhz",
     "url": "https://radio-broadcast.ekantipur.com/stream",
     "location": "Lalitpur, Nepal"
+  },
+  {
+    "name": "Kalika FM",
+    "slogan": "",
+    "frequency": "91 Mhz",
+    "url": "https://streaming.softnep.net:10828/;stream.nsv&type=mp3&volume=70",
+    "location": "Chitawan, Nepal"
   }
 ]
