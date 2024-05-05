@@ -26,5 +26,12 @@
     "frequency": "91 Mhz",
     "url": "https://streaming.softnep.net:10828/;stream.nsv&type=mp3&volume=70",
     "location": "Chitawan, Nepal"
+  },
+  {
+    "name": "Thaha Sanchar",
+    "slogan": "",
+    "frequency": "99.4 Mhz",
+    "url": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3&volume=60",
+    "location": "Kathmandu, Nepal"
   }
-]
+  
