@@ -38,5 +38,13 @@
     "frequency": "99.4 Mhz",
     "url": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3&volume=60",
     "location": "Kathmandu, Nepal"
+  },
+  {
+    "name": "Radio Nepal",
+    "logo": "https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png",
+    "slogan": "",
+    "frequency": "99.4 Mhz",
+    "url": "https://stream1.radionepal.gov.np/live",
+    "location": "Kathmandu, Nepal"
   }
 ]
