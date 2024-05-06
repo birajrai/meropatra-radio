@@ -56,11 +56,18 @@
     "location": "Sindhuli, Nepal"
   },
   {
-    "name": "3 Angel Radio i",
+    "name": "3 Angel Radio ",
     "logo": "https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png",
     "slogan": "",
     "frequency": "94.6 Mhz",
     "url": "https://live.itech.host:7559/stream",
     "location": "pokhara, Nepal"
-  }
+  },
+  {
+    "name": "Bfbs Gorkha Radio ",
+    "logo": "https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png",
+    "slogan": "",
+    "frequency": " ",
+    "url": "https://live.itech.host:7559/stream",
+    "location": "Uk, "
 ]
