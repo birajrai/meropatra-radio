@@ -46,5 +46,13 @@
     "frequency": "100 Mhz",
     "url": "https://stream1.radionepal.gov.np/live",
     "location": "Kathmandu, Nepal"
+  },
+  {
+    "name": "RadioSindhuligadhi",
+    "logo": "https://www.meropatra.com/wp-content/uploads/2024/02/MP-LOGO-web-1-1.png",
+    "slogan": "",
+    "frequency": "92 Mhz",
+    "url": "https://live.itech.host:1525/stream",
+    "location": "Sindhuli, Nepal"
   }
 ]
