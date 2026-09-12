@@ -15,7 +15,7 @@
     "vue": "^3.2.45"
   },
   "devDependencies": {
-    "@vite-pwa/assets-generator": "^0.2.4",
+    "@vite-pwa/assets-generator": "^2.0.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "postcss-viewport-height-correction": "^1.1.1",
     "sass": "^1.57.1",
